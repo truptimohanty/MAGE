@@ -29,6 +29,11 @@ The MAGE system follows a streamlined workflow:
 5. **Stability Analysis**: Formation energy analysis via MEGNet Model
 6. **Results**: Integrated display of properties, structure, and stability metrics
 
+## Demo Video
+
+Watch our YouTube demo to see MAGE in action:  
+[![MAGE Demo](https://img.youtube.com/vi/mz8s9iZzuVo/0.jpg)](https://youtu.be/mz8s9iZzuVo)
+
 ## Setup and Installation
 
 ### Prerequisites
@@ -49,6 +54,9 @@ The MAGE system follows a streamlined workflow:
    ```
 
 ### Starting the System
+
+You will need **three separate terminals** open:  
+one for the Formation Energy API server, one for the Crystal Toolkit server, and one for the MAGE web interface.
 
 1. **Start Formation Energy API Server**:
    ```bash
