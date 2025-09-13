@@ -17,7 +17,7 @@ MAGE is a materials science agent focused on **property prediction and crystal s
 ## Workflow
 
 <div align="center">
-  <img src="MAGE_Workflow.png" alt="MAGE Workflow" width="600"/>
+  <img src="multi_tool_agent/MAGE_Workflow.png" alt="MAGE Workflow" width="600"/>
 </div>
 
 The MAGE system follows a streamlined workflow:
