@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="multi_tool_agent/MAGE.png" alt="MAGE Logo" width="200"/>
+  <img src="multi_tool_agent/MAGE.png" alt="MAGE Logo" width="300"/>
 </div>
 
 # MAGE: Materials Agent for Generative and Evaluative Design
