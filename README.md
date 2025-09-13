@@ -32,7 +32,7 @@ The MAGE system follows a streamlined workflow:
 ## Demo Video
 
 Watch our YouTube demo to see MAGE in action:  
-[![MAGE Demo](https://img.youtube.com/vi/mz8s9iZzuVo/0.jpg)](https://youtu.be/mz8s9iZzuVo)
+[![MAGE Demo](https://img.youtube.com/vi/mz8s9iZzuVo/maxresdefault.jpg)](https://youtu.be/mz8s9iZzuVo)
 
 ## Setup and Installation
 
