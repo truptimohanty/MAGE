@@ -1,0 +1,28 @@
+# Core ML and AI libraries
+torch>=2.0.0
+transformers>=4.30.0
+unsloth>=2024.1
+google-generativeai>=0.3.0
+
+# Materials science libraries
+pymatgen>=2023.5.10
+matgl>=0.9.0
+
+# Web framework and API
+streamlit>=1.28.0
+flask>=2.3.0
+dash>=2.14.0
+crystal-toolkit>=2023.11.3
+
+# Data visualization
+plotly>=5.15.0
+numpy>=1.24.0
+
+# Utility libraries
+python-dotenv>=1.0.0
+requests>=2.31.0
+scipy>=1.11.0
+pillow>=10.0.0
+
+# Development and testing
+asyncio
