@@ -4,7 +4,7 @@
 
 ## MAGE: Materials Agent for Generative and Evaluative Design
 
-MAGE is a materials science agent focused on **property prediction and crystal structure generation**. The system uses fine tuned LLM to predict materials properties (such as bulk modulus) and generates crystal structures based on targeted property in CIF format, with additional formation energy analysis capabilities using M3GNet.
+MAGE is a materials science agent focused on **property prediction and crystal structure generation**. The system uses fine tuned LLM to predict materials properties (such as bulk modulus) and generates crystal structures based on targeted property in CIF format, with additional formation energy analysis capabilities using MEGNet. The application has been developed using the Google Agent Development Kit (ADK) framework for agent implementation and Streamlit for the frontend interface.
 
 ## Key Capabilities
 
@@ -52,6 +52,15 @@ Watch our YouTube demo to see MAGE in action:
    conda activate matgl_env
    pip install matgl torch
    ```
+   
+3. **Google API Configuration**:
+   
+   update `.env` file with your Google API key:
+   ```bash
+   GOOGLE_GENAI_USE_VERTEXAI=FALSE
+   GOOGLE_API_KEY=your_google_api_key_here
+   ```
+   
 
 ### Starting the System
 
