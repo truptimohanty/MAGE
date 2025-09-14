@@ -4,7 +4,7 @@
 
 ## MAGE: Materials Agent for Generative and Evaluative Design
 
-MAGE is a materials science agent focused on **property prediction and crystal structure generation**. The system uses fine tuned LLM to predict materials properties (such as bulk modulus) and generate crystal structures based on targeted property in CIF format, with additional formation energy analysis capabilities using M3GNet.
+MAGE is a materials science agent focused on **property prediction and crystal structure generation**. The system uses fine tuned LLM to predict materials properties (such as bulk modulus) and generates crystal structures based on targeted property in CIF format, with additional formation energy analysis capabilities using M3GNet.
 
 ## Key Capabilities
 
