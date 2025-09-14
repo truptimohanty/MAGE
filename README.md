@@ -4,7 +4,7 @@
 
 ## MAGE: Materials Agent for Generative and Evaluative Design
 
-MAGE is a materials science agent focused on **property prediction and crystal structure generation**. The system uses fine tuned LLM to predict materials properties (such as bulk modulus) and generates crystal structures based on targeted property in CIF format, with additional formation energy analysis capabilities using MEGNet. TThe application was developed using the Google Agent Development Kit (ADK) framework, with Gemini 2.5-Pro for agent implementation and Mistral-7B-v0.3 for fine-tuning, while Streamlit was used for the frontend interface.
+MAGE is a materials science agent focused on **property prediction and crystal structure generation**. The system uses fine tuned LLM to predict materials properties (such as bulk modulus) and generates crystal structures based on targeted property in CIF format, with additional formation energy analysis capabilities using MEGNet. The application was developed using the Google Agent Development Kit (ADK) framework, with Gemini 2.5-Pro for agent implementation and unsloth library to finetune Mistral-7B-v0.3 Basen model. Streamlit was used for the frontend interface.
 
 ## Key Capabilities
 
