@@ -45,7 +45,7 @@ load_in_4bit = True
 
 # Load model and tokenizer
 model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name=r".\BM_lora_model_4bit_mistral7b_unified_epoch10",
+    model_name="truptimohanty/bulkmod_unified", 
     max_seq_length=max_seq_length,
     dtype=dtype,
     load_in_4bit=load_in_4bit,
